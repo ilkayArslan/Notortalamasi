@@ -1,0 +1,2 @@
+# Notortalamasi
+ilk java projesi
